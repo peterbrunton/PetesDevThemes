@@ -1,0 +1,13 @@
+development:
+  theme_id: 98481987
+  password: 8408e32325502c93c495b730138275a7
+  store: pete-skate-shop.myshopify.com
+  ignore_files:
+    - config/settings_data.json
+    - config/settings.html
+    - "*.png"
+    - "*.jpg"
+    - "*.jpeg"    
+    - "*.gif"
+    - "*.pdf"
+    - "*.mp4"
