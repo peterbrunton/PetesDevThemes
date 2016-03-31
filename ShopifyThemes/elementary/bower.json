@@ -1,0 +1,32 @@
+{
+  "name": "elementary",
+  "version": "0.0.1",
+  "keywords": [
+    "shopify",
+    "theme",
+    "framework",
+    "css",
+    "js",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end"
+  ],
+  "main": [
+    "assets/*",
+    "config/*",
+    "layout/*",
+    "snippets/*",
+    "templates/*",
+    "locales/*"
+  ],
+  "ignore": [
+    ".*"
+  ],
+  "homepage": "https://github.com/peterbrunton/",
+  "authors": [
+    "Peter Brunton <brunton.peter@gmail.com>"
+  ],
+  "description": "Elementary, the Ultimate Basic Shopify Theme",
+  "license": "MIT"
+}
