@@ -1,3 +1,6 @@
+Elementary Version: 1.0.0
+Built on Timber by Shopify.
+
 Shopify Timber [![Circle CI](https://circleci.com/gh/Shopify/Timber.svg?style=svg)](https://circleci.com/gh/Shopify/Timber)
 =====================
 
